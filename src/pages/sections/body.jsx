@@ -34,9 +34,8 @@ const Body = () => {
                 ) : (
                   <a
                     href={ASSETS[attachment.fileId] || "#"}
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="z-50 absolute top-4 right-4 p-4 bg-white border rounded-md hover:bg-Brown500 hover:text-white transition-all ease-in-out delay-200"
+                    download={post.title || "archivo"}
                     aria-label={`Descargar ${post.title}`}
                   >
                     <DOWNLOAD />

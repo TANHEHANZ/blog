@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "Los derechos fundamentales en la constitución",
-      "description": "Este artículo ofrece un análisis exhaustivo sobre los derechos fundamentales consagrados en la constitución actual. Se examinan los derechos individuales y colectivos, destacando su importancia para garantizar el bienestar social y la justicia. A través de un enfoque legal y doctrinal, se presentan ejemplos prácticos sobre cómo estos derechos se aplican en la vida cotidiana de los ciudadanos.",
-      "date": "2024-10-18",
-      "author": "Dr. Juan Pérez",
+      "title": "Notariado ",
+      "description": "El Notario es la persona autorizada, que conforme a derecho da fe instrumental de los hechos, actos y negocios jurídicos del derecho privado, realizados voluntaria y bilateralmente en acuerdo autónomo.",
+      "date": "2024-10-20",
+      "author": "Camila Calle Romero",
       "attachments": [
         {
           "type": "image",
@@ -13,16 +13,16 @@
         },
         {
           "type": "document",
-          "fileId": "doc1"
+          "fileId": "Notariado 1"
         }
       ]
     },
     {
       "id": 2,
-      "title": "Proceso judicial en el derecho civil",
+      "title": "Documentos notariales",
       "description": "Este artículo desglosa de manera detallada cómo se lleva a cabo un proceso judicial en el ámbito del derecho civil, desde la presentación de la demanda hasta la sentencia final. Se explican las fases clave, las responsabilidades de las partes y los plazos legales. Además, ofrece recomendaciones prácticas tanto para abogados como para las partes involucradas.",
       "date": "2024-10-12",
-      "author": "Dr. Juan Pérez",
+      "author": "Jhasmin Nicole Rodrigue Quispe",
       "attachments": [
         {
           "type": "image",
@@ -30,16 +30,16 @@
         },
         {
           "type": "document",
-          "fileId": "doc2"
+          "fileId": "Documentos notariales"
         }
       ]
     },
     {
       "id": 3,
-      "title": "La importancia del derecho laboral",
-      "description": "Este artículo explora la relevancia de las leyes laborales en la protección de los derechos de los trabajadores. Se analizan los principios fundamentales del derecho laboral, como la igualdad de oportunidades, la seguridad en el empleo, y los derechos y deberes tanto de empleados como de empleadores. Se incluyen ejemplos de cómo estas leyes afectan el día a día de los trabajadores en diferentes industrias.",
-      "date": "2024-10-05",
-      "author": "Dr. Juan Pérez",
+      "title": "Reconocimineto de firmas",
+      "description": "Es aquel documento mediante el cual una persona da certeza de un acto de forma voluntaria, mismo que funciona como un juramento presentado ante un notario.",
+      "date": "2024-10-20",
+      "author": "Jhasmin Nicole Rodrigue Quispe",
       "attachments": [
         {
           "type": "image",
@@ -47,16 +47,16 @@
         },
         {
           "type": "document",
-          "fileId": "doc3"
+          "fileId": "Reconocimineto de firmas 8"
         }
       ]
     },
     {
       "id": 4,
-      "title": "Los derechos fundamentales en la constitución",
-      "description": "Un análisis detallado de los derechos fundamentales garantizados por la constitución actual, explorando cómo estos derechos han sido interpretados y aplicados en diversos casos judiciales. El artículo aborda tanto la evolución histórica de estos derechos como su impacto en la vida de los ciudadanos, con especial énfasis en los derechos humanos y sociales.",
-      "date": "2024-10-18",
-      "author": "Dr. Juan Pérez",
+      "title": "Fe pública",
+      "description": "Las características de la fe pública son la exactitud e integridad ya que se narran los hechos de manera adecuada mediante documento y se efectúa mediante un protocolo de manera que las propias características de la fe pública permiten justificar reglas legales respecto de la veracidad de los hechos registrados en ellos.",
+      "date": "2024-10-20",
+      "author": "Fabiola del Pilar Lopez",
       "attachments": [
         {
           "type": "image",
@@ -64,16 +64,16 @@
         },
         {
           "type": "document",
-          "fileId": "doc4"
+          "fileId": "Fe pública 4"
         }
       ]
     },
     {
       "id": 5,
-      "title": "Los derechos fundamentales en la constitución",
-      "description": "Este artículo examina de manera crítica los derechos fundamentales reconocidos por la constitución y cómo estos se relacionan con las garantías individuales y colectivas. Se incluyen referencias a casos recientes donde estos derechos han sido discutidos en tribunales, y se analiza su relevancia en el contexto actual de la sociedad.",
-      "date": "2024-10-18",
-      "author": "Dr. Juan Pérez",
+      "title": "Poderes",
+      "description": "Es un documento público autorizado por un notario que permite a una persona o empresa designar a otra como su representante para que actúe en su nombre en determinados actos jurídicos",
+      "date": "2024-10-20",
+      "author": "Jhasmin Nicole Rodrigue Quispe",
       "attachments": [
         {
           "type": "image",
@@ -81,7 +81,58 @@
         },
         {
           "type": "document",
-          "fileId": "doc5"
+          "fileId": "Poder 7"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Procesos voluntarios",
+      "description": "La ley Notarial en su articulo 89 establece “La vía voluntaria notarial es el trámite ante la notaria o el notario de fe pública por el que se crea, modifica o extingue relaciones jurídicas”. Burgoa en el Estudio de la normativa notarial Plurinacional de Bolivia determina es un tramite administrativo, no jurisdiccional, siendo procedentes siempre y cuando exista acuerdo pleno entre los interesados y éste sea libre voluntario y consentido y no se involucren derechos de terceras personas.",
+      "date": "2024-10-01",
+      "author": "Paola Isabel Mendoza Villca",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img6"
+        },
+        {
+          "type": "document",
+          "fileId": "Procesos voluntarios 10"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Principios del derecho notarial",
+      "description": "Los principios son las reglas de conducta del notario, marcan lo que debe hacer y lo que no debe hacer. Estas reglas están en relación con las normas que regulan la actividad notarial",
+      "date": "2024-10-01",
+      "author": "Paola Isabel Mendoza Villca",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img7"
+        },
+        {
+          "type": "document",
+          "fileId": "Principios del derecho notarial 2"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Derecho notarial Y sus principios ",
+      "description": "No hay que poner Dr. pongame 0 porfavor ",
+      "date": "2024-10-18",
+      "author": "Camila Calle Romero",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img8"
+        },
+        {
+          "type": "document",
+          "fileId": "Opcional 1 y 2"
         }
       ]
     }
