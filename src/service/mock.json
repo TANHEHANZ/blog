@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Los derechos fundamentales en la constitución",
+      "description": "Este artículo ofrece un análisis exhaustivo sobre los derechos fundamentales consagrados en la constitución actual. Se examinan los derechos individuales y colectivos, destacando su importancia para garantizar el bienestar social y la justicia. A través de un enfoque legal y doctrinal, se presentan ejemplos prácticos sobre cómo estos derechos se aplican en la vida cotidiana de los ciudadanos.",
+      "date": "2024-10-18",
+      "author": "Dr. Juan Pérez",
+      "attachments": [
+        {
+          "type": "image",
+          "url": "/src/img/carrousel/2.jpg",
+          "description": "Infografía visual que resume los principales derechos fundamentales garantizados en la constitución."
+        },
+        {
+          "type": "document",
+          "url": "/src/img/carrousel/2.jpg",
+          "description": "Documento PDF que proporciona un análisis completo con referencias a artículos específicos de la constitución."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Proceso judicial en el derecho civil",
+      "description": "Este artículo desglosa de manera detallada cómo se lleva a cabo un proceso judicial en el ámbito del derecho civil, desde la presentación de la demanda hasta la sentencia final. Se explican las fases clave, las responsabilidades de las partes y los plazos legales. Además, ofrece recomendaciones prácticas tanto para abogados como para las partes involucradas.",
+      "date": "2024-10-12",
+      "author": "Dr. Juan Pérez",
+      "attachments": [
+        {
+          "type": "image",
+          "url": "https://derechofacil.cl/wp-content/uploads/2023/07/Derechofacil-home.webp",
+          "description": "Diagrama detallado que muestra las diferentes fases del proceso judicial en casos civiles."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "La importancia del derecho laboral",
+      "description": "Este artículo explora la relevancia de las leyes laborales en la protección de los derechos de los trabajadores. Se analizan los principios fundamentales del derecho laboral, como la igualdad de oportunidades, la seguridad en el empleo, y los derechos y deberes tanto de empleados como de empleadores. Se incluyen ejemplos de cómo estas leyes afectan el día a día de los trabajadores en diferentes industrias.",
+      "date": "2024-10-05",
+      "author": "Dr. Juan Pérez",
+      "attachments": [
+        {
+          "type": "image",
+          "url": "https://media.es.wired.com/photos/650b2a2e72d73ca3bd5ef0cc/16:9/w_2560%2Cc_limit/Business-OpenAI-Dall-E-3-heart.jpg",
+          "description": "Infografía que ilustra los derechos laborales fundamentales y cómo se aplican en diferentes sectores."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Los derechos fundamentales en la constitución",
+      "description": "Un análisis detallado de los derechos fundamentales garantizados por la constitución actual, explorando cómo estos derechos han sido interpretados y aplicados en diversos casos judiciales. El artículo aborda tanto la evolución histórica de estos derechos como su impacto en la vida de los ciudadanos, con especial énfasis en los derechos humanos y sociales.",
+      "date": "2024-10-18",
+      "author": "Dr. Juan Pérez",
+      "attachments": [
+        {
+          "type": "image",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSen7rn2BICbR2vQEBnq8kFEUdCSb2nQ4krQA&s",
+          "description": "Infografía que destaca los principales derechos fundamentales y cómo se aplican en la vida cotidiana."
+        },
+        {
+          "type": "document",
+          "url": "https://example.com/docs/derechos-fundamentales.pdf",
+          "description": "PDF con el análisis completo de los derechos fundamentales y su interpretación legal."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Los derechos fundamentales en la constitución",
+      "description": "Este artículo examina de manera crítica los derechos fundamentales reconocidos por la constitución y cómo estos se relacionan con las garantías individuales y colectivas. Se incluyen referencias a casos recientes donde estos derechos han sido discutidos en tribunales, y se analiza su relevancia en el contexto actual de la sociedad.",
+      "date": "2024-10-18",
+      "author": "Dr. Juan Pérez",
+      "attachments": [
+        {
+          "type": "image",
+          "url": "",
+          "description": "Infografía sobre los derechos fundamentales con ejemplos de cómo se protegen en diferentes situaciones."
+        },
+        {
+          "type": "document",
+          "url": "https://example.com/docs/derechos-fundamentales.pdf",
+          "description": "Documento PDF con un estudio completo de los derechos fundamentales y su implementación."
+        }
+      ]
+    }
+  ]
+}
