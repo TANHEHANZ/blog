@@ -34,10 +34,10 @@ const Post = () => {
         </h1>
         <p>{searchData.description}</p>
         {documentAttachment && (
-          <button className="text-sm py-2 px-4 cursor-pointer rounded-md border bg-Brown100 hover:bg-white transition-all duration-500 ease-in-out min-w-60  text-Brown700 flex justify-center items-center z-20 ">
+          <button className="text-sm py-2 px-4 cursor-pointer rounded-md border bg-Brown100 hover:bg-white transition-all duration-500 ease-in-out min-w-60  text-Brown700 flex justify-center items-center ">
             <a
-              href={documentAttachment.url}
-              download={documentAttachment.title || "archivo"}
+              href={ASSETS[documentAttachment.fileId] || "#"}
+              download={searchData.title || "archivo"}
               aria-label={`Descargar ${documentAttachment.title}`}
               className=" flex gap-4 justify-center items-center  "
             >
