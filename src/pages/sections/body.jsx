@@ -2,9 +2,10 @@ import Card from "../../ui/public/card";
 import data from "../../service/mock.json";
 import image from "../../img/noFountImg.png";
 import { DOWNLOAD, PEOPLE } from "../../ui/public/icons";
+import { ASSETS } from "../../service/pathMultimedia";
 const Body = () => {
   return (
-    <>
+    <div>
       <section
         data-entrie="element"
         className="h-auto relative flex flex-wrap gap-4 min-h-[50dvh] p-8 justify-center w-full "
@@ -12,12 +13,15 @@ const Body = () => {
         {data.posts.map((post) => (
           <Card path={post.id}>
             {post.attachments.map((attachment, index) => (
-              <section>
+              <section key={index}>
                 {attachment.type === "image" ? (
                   <img
-                    src={attachment.url ? attachment.url : image}
+                    src={
+                      ASSETS[attachment.fileId]
+                        ? ASSETS[attachment.fileId]
+                        : image
+                    }
                     alt={attachment.description}
-                    key={index}
                     className="h-[14rem] object-cover w-full group-hover:scale-110 transition-all ease-in-out delay-50"
                     style={{
                       filter: "drop-shadow(0 0 5px rgba(0, 0, 0, 0.5))",
@@ -29,10 +33,11 @@ const Body = () => {
                   />
                 ) : (
                   <a
-                    href={attachment.url}
+                    href={ASSETS[attachment.fileId] || "#"}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="z-50 absolute top-4 right-4 p-4 bg-white border rounded-md hover:bg-Brown500 hover:text-white transition-all ease-in-out delay-200"
+                    aria-label={`Descargar ${post.title}`}
                   >
                     <DOWNLOAD />
                   </a>
@@ -58,7 +63,7 @@ const Body = () => {
           </Card>
         ))}
       </section>
-    </>
+    </div>
   );
 };
 

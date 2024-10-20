@@ -9,13 +9,11 @@
       "attachments": [
         {
           "type": "image",
-          "url": "/src/img/carrousel/2.jpg",
-          "description": "Infografía visual que resume los principales derechos fundamentales garantizados en la constitución."
+          "fileId": "img1"
         },
         {
           "type": "document",
-          "url": "/src/img/carrousel/2.jpg",
-          "description": "Documento PDF que proporciona un análisis completo con referencias a artículos específicos de la constitución."
+          "fileId": "doc1"
         }
       ]
     },
@@ -28,8 +26,11 @@
       "attachments": [
         {
           "type": "image",
-          "url": "https://derechofacil.cl/wp-content/uploads/2023/07/Derechofacil-home.webp",
-          "description": "Diagrama detallado que muestra las diferentes fases del proceso judicial en casos civiles."
+          "fileId": "img2"
+        },
+        {
+          "type": "document",
+          "fileId": "doc2"
         }
       ]
     },
@@ -42,8 +43,11 @@
       "attachments": [
         {
           "type": "image",
-          "url": "https://media.es.wired.com/photos/650b2a2e72d73ca3bd5ef0cc/16:9/w_2560%2Cc_limit/Business-OpenAI-Dall-E-3-heart.jpg",
-          "description": "Infografía que ilustra los derechos laborales fundamentales y cómo se aplican en diferentes sectores."
+          "fileId": "img3"
+        },
+        {
+          "type": "document",
+          "fileId": "doc3"
         }
       ]
     },
@@ -56,13 +60,11 @@
       "attachments": [
         {
           "type": "image",
-          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSen7rn2BICbR2vQEBnq8kFEUdCSb2nQ4krQA&s",
-          "description": "Infografía que destaca los principales derechos fundamentales y cómo se aplican en la vida cotidiana."
+          "fileId": "img4"
         },
         {
           "type": "document",
-          "url": "https://example.com/docs/derechos-fundamentales.pdf",
-          "description": "PDF con el análisis completo de los derechos fundamentales y su interpretación legal."
+          "fileId": "doc4"
         }
       ]
     },
@@ -75,13 +77,11 @@
       "attachments": [
         {
           "type": "image",
-          "url": "",
-          "description": "Infografía sobre los derechos fundamentales con ejemplos de cómo se protegen en diferentes situaciones."
+          "fileId": "img5"
         },
         {
           "type": "document",
-          "url": "https://example.com/docs/derechos-fundamentales.pdf",
-          "description": "Documento PDF con un estudio completo de los derechos fundamentales y su implementación."
+          "fileId": "doc5"
         }
       ]
     }

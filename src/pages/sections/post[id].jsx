@@ -4,6 +4,7 @@ import data from "../../service/mock.json";
 import { DOWNLOAD } from "../../ui/public/icons";
 import image from "../../img/noFountImg.png";
 import Button from "../../ui/public/button";
+import { ASSETS } from "../../service/pathMultimedia";
 
 const Post = () => {
   const params = useParams();
@@ -13,14 +14,17 @@ const Post = () => {
     (attachment) => attachment.type === "document"
   );
   const imageAttachment = searchData.attachments.find(
-    (attachment) => attachment.type === "imagen"
+    (attachment) => attachment.type === "image"
   );
-  console.log(imageAttachment);
 
   return (
     <div className=" w-[80dvw] mt-[5rem] flex relative md:h-[calc(100dvh-6rem)] h-full justify-center items-center gap-8 flex-wrap ">
       <img
-        src={imageAttachment ? imageAttachment : image}
+        src={
+          ASSETS[imageAttachment.fileId]
+            ? ASSETS[imageAttachment.fileId]
+            : image
+        }
         alt={imageAttachment}
         className="md:w-[calc(50%-2rem)] h-24 object-cover rounded-md md:h-full w-24 absolute md:relative top-0 right-0 border "
       />
