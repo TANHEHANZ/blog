@@ -135,6 +135,93 @@
           "fileId": "Opcional 1 y 2"
         }
       ]
+    },
+    {
+      "id": 9,
+      "title": "Escrituras publicas ",
+      "description": "Son documentos autorizados por un notario, que da fe de los actos y contratos realizados ante él, puesto que este documento tiene plena validez jurídica y probatoria, y su contenido es difícilmente impugnable",
+      "date": "2024-10-18",
+      "author": "Fabiola del Pilar Lopez",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img9"
+        },
+        {
+          "type": "document",
+          "fileId": "Escrituras públicas"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Testamentos notariales",
+      "description": "Los testamentos notariales son aquellos que se otorgan ante un notario público, asegurando que el documento cumpla con todas las formalidades legales y sea válido. Estos testamentos pueden ser de dos tipos principales testamento abierto y testamento cerrado",
+      "date": "2024-10-18",
+      "author": "Camila Calle Romero",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img10"
+        },
+        {
+          "type": "document",
+          "fileId": "Escrituras públicas"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Divorcio de mutuo acuerdo",
+      "description": "El divorcio notarial es un procedimiento que permite disolver un matrimonio ante un notario de fe pública, en lugar de acudir a un juzgado. Este tipo de divorcio es una alternativa más ágil y práctica que el proceso judicial tradicional.",
+      "date": "2024-10-18",
+      "author": "Paola Isabel Mendoza",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img11"
+        },
+        {
+          "type": "document",
+          "fileId": "Divorcio de mutuo acuerdo"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 12,
+      "title": "Documentos de representación",
+      "description": "Los documentos de representación son todos aquellos poderes, que forman parte de los documentos protocolares, mismos que son extendidos por un notario de fe publica, estos documentos tiene la finalidad de   concederle la facultad de realizar ciertas tareas, procesos a una persona de confianza, a fin de que actué en nombre de quien le otorgará el poder.",
+      "date": "2024-10-18",
+      "author": "Jhasmin Nicol Rodriguez",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img12"
+        },
+        {
+          "type": "document",
+          "fileId": "Documentos de representación"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 13,
+      "title": "Documentos protocolares y extraprotocolares",
+      "description": "Son aquellos documentos que son regularizados y autorizados por un NOTARIO DE FE PÚBLICA, quien mediante su firma, rubrica y sello le brinda la calidad y veracidad a los documentos presentados por las partes de forma voluntaria.",
+      "date": "2024-10-18",
+      "author": "Jhasmin Nicol Rodriguez",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img13"
+        },
+        {
+          "type": "document",
+          "fileId": "Documentos protocolares y extraprotocolares"
+        }
+      ]
     }
   ]
 }

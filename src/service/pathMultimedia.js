@@ -7,6 +7,12 @@ import doc6 from "../service/data/documentos/Procesos voluntarios 10.pdf";
 import doc7 from "../service/data/documentos/Principios del derecho notarial 2.pdf";
 import doc8 from "../service/data/documentos/Opcional 1 y 2.pdf";
 
+import doc9 from "../service/data/documentos/Escrituras públicas.pdf";
+import doc10 from "../service/data/documentos/Testamentos notariales.pdf";
+import doc11 from "../service/data/documentos/Divorcio de mutuo acuerdo.pdf";
+import doc12 from "../service/data/documentos/Documentos de representación.pdf";
+import doc13 from "../service/data/documentos/Documentos protocolares y extraprotocolares.pdf";
+
 import img1 from "../service/data/documentos/1.jpg";
 import img2 from "../service/data/documentos/2.jpg";
 import img3 from "../service/data/documentos/3.jpg";
@@ -15,6 +21,12 @@ import img5 from "../service/data/documentos/6.jpg";
 import img7 from "../service/data/documentos/7.jpg";
 import img10 from "../service/data/documentos/10.jpg";
 import img8 from "../service/data/documentos/5.jpg";
+
+import img9 from "../service/data/documentos/9.jpg";
+import img10A from "../service/data/documentos/10A.jpg";
+import img11 from "../service/data/documentos/11.jpg";
+import img12 from "../service/data/documentos/12.jpg";
+import img13 from "../service/data/documentos/13.jpg";
 
 export const ASSETS = {
   "Notariado 1": doc1,
@@ -33,4 +45,9 @@ export const ASSETS = {
   img6: img10,
   img7: img7,
   img8: img8,
+  img9: img9,
+  img10: img10A,
+  img11: img11,
+  img12: img12,
+  img13: img13,
 };

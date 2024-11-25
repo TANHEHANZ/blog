@@ -1,18 +1,18 @@
 import { Link, useParams } from "react-router-dom";
-import useObserver from "../../hooks/useObserver";
+// import useObserver from "../../hooks/useObserver";
 import Button from "../../ui/public/button";
 import logo from "../../img/Logo.png";
 
 const NavBar = () => {
-  useObserver({
-    selector: "#nav",
-    sectionSelector: "section[data-entrie='element']",
-    classToAddOnEnter: "move-in",
-    classToAddOnExit: "move-out",
-    root: null,
-    rootMargin: "0px",
-    threshold: 0.4,
-  });
+  // useObserver({
+  //   selector: "#nav",
+  //   sectionSelector: "section[data-entrie='element']",
+  //   classToAddOnEnter: "move-in",
+  //   classToAddOnExit: "move-out",
+  //   root: null,
+  //   rootMargin: "0px",
+  //   threshold: 0.4,
+  // });
   const params = useParams();
   const ID = parseInt(params.id);
 
