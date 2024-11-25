@@ -37,6 +37,12 @@ export const ASSETS = {
   "Procesos voluntarios 10": doc6,
   "Principios del derecho notarial 2": doc7,
   "Opcional 1 y 2": doc8,
+
+  "Escrituras públicas": doc9,
+  "Testamentos notariales": doc10,
+  "Divorcio de mutuo acuerdo": doc11,
+  "Documentos de representación": doc12,
+  "Documentos protocolares y extraprotocolares": doc13,
   img1: img1,
   img2: img5,
   img3: img3,
