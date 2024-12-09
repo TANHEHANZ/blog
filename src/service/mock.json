@@ -222,6 +222,41 @@
           "fileId": "Documentos protocolares y extraprotocolares"
         }
       ]
+    },
+    {
+      "id": 14,
+      "title": "Trámites en la vía voluntatia notarial en materia Civil 1",
+      "description": "",
+      "date": "2024-10-18",
+      "author": "Paola Isabel Mendoza",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img14"
+        },
+        {
+          "type": "document",
+          "fileId": "Trámites-en-la-vía-voluntatia-notarial-en-materia-Civil-1"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 15,
+      "title": "Adopción en la vía voluntaria notarial",
+      "description": "",
+      "date": "2024-10-18",
+      "author": "Paola Isabel Mendoza",
+      "attachments": [
+        {
+          "type": "image",
+          "fileId": "img15"
+        },
+        {
+          "type": "document",
+          "fileId": "Adopción-en-la-vía-voluntaria-notarial"
+        }
+      ]
     }
   ]
 }

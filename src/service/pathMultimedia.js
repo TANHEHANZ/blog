@@ -13,6 +13,9 @@ import doc11 from "../service/data/documentos/Divorcio de mutuo acuerdo.pdf";
 import doc12 from "../service/data/documentos/Documentos de representación.pdf";
 import doc13 from "../service/data/documentos/Documentos protocolares y extraprotocolares.pdf";
 
+import doc14 from "../service/data/documentos/Trámites-en-la-vía-voluntatia-notarial-en-materia-Civil-1.pdf"
+import doc15 from "../service/data/documentos/Adopción-en-la-vía-voluntaria-notarial.pdf"
+
 import img1 from "../service/data/documentos/1.jpg";
 import img2 from "../service/data/documentos/2.jpg";
 import img3 from "../service/data/documentos/3.jpg";
@@ -27,6 +30,8 @@ import img10A from "../service/data/documentos/10A.jpg";
 import img11 from "../service/data/documentos/11.jpg";
 import img12 from "../service/data/documentos/12.jpg";
 import img13 from "../service/data/documentos/13.jpg";
+import img14 from "../service/data/documentos/14.webp";
+import img15 from "../service/data/documentos/15.jpg";
 
 export const ASSETS = {
   "Notariado 1": doc1,
@@ -43,6 +48,8 @@ export const ASSETS = {
   "Divorcio de mutuo acuerdo": doc11,
   "Documentos de representación": doc12,
   "Documentos protocolares y extraprotocolares": doc13,
+  "Trámites-en-la-vía-voluntatia-notarial-en-materia-Civil-1": doc14,
+  "Adopción-en-la-vía-voluntaria-notarial": doc15,
   img1: img1,
   img2: img5,
   img3: img3,
@@ -56,4 +63,6 @@ export const ASSETS = {
   img11: img11,
   img12: img12,
   img13: img13,
+  img14: img14,
+  img15: img15,
 };
